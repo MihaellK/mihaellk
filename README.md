@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mihaell Alves!
 
-A Computer Engineering Studant at Inteli, and I'm:
+A Computer Engineering Studant at [Inteli](https://www.inteli.edu.br/), and I'm:
 
 - 🌱 Currently learning [Computer Graphics](https://en.wikipedia.org/wiki/Computer_graphics), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/).
 - 🎬 A film enthusiast.
