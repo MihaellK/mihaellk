@@ -52,7 +52,7 @@ A Computer Engineering Studant at [Inteli](https://www.inteli.edu.br/), and I'm:
 ![mihaellk's Stats](https://github-readme-stats.vercel.app/api?username=mihaellk&theme=radical&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
 ![mihaellk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaellk&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-![snake gif](https://github.com/MihaellK/mihaellk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MihaellK/mihaellk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📫 Contact me
 
